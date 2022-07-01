@@ -3,8 +3,10 @@ I'm fintech engineer who’s working at one of the five largest banks in the wor
 
 
 # Validation Screenshots
-![]("C:\Users\tempe\OneDrive\Pictures\Saved Pictures\validation1.png")
 
-![]("C:\Users\tempe\OneDrive\Pictures\Saved Pictures\validation2.png")
+![In The Terminal](validation3.png)
 
-![]("C:\Users\tempe\OneDrive\Pictures\Saved Pictures\validation3.png")
+![SideBar](validation1.png)
+
+![ValidationButton](validation2.png)
+
